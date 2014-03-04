@@ -10,3 +10,7 @@
 #navigation.navbar-fixed-top {
   @include box-shadow(0 0 5px #000);
 }
+
+.admin-menu #navigation.navbar-fixed-top {
+  margin-top: 2em !important;
+}
