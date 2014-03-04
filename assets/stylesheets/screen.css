@@ -9348,6 +9348,10 @@ body #footer .container {
   box-shadow: 0 0 5px black;
 }
 
+.admin-menu #navigation.navbar-fixed-top {
+  margin-top: 2em !important;
+}
+
 .panel-pane.hide-title .pane-title {
   display: none;
 }
