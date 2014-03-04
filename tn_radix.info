@@ -1,5 +1,5 @@
-name        = TN Widgets Theme
-description = A widget-friendly, simple, clean, Bootstrap-based and Flatly subtheme of Radix
+name        = TN Radix
+description = A simple, clean, Bootstrap-based and Flatly subtheme of Radix
 screenshot  = screenshot.png
 core        = 7.x
 
